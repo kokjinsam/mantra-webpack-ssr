@@ -49,6 +49,7 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.12.9",
     "webpack-hot-middleware": "^2.4.1",
-    "expose-loader": "^0.7.1"
+    "expose-loader": "^0.7.1",
+    "babel": "^6.3.26"
   }
 }

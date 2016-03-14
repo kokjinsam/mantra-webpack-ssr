@@ -1,6 +1,6 @@
-import { FlowRouter } from 'meteor/kadira:flow-router';
+import { FlowRouter } from 'meteor/kadira:flow-router-ssr';
 
-import './client/main';
+import './app/main';
 
 Meteor.startup(function() {
   FlowRouter.initialize();

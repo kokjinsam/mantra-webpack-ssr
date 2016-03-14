@@ -1,6 +1,6 @@
 {
   "root": "src",
-  "devServer": {
-    "host": "localhost"
-  }
+  "devServer.host": "localhost",
+  "hotMiddleware.reload": true,
+  "css.module": true
 }
